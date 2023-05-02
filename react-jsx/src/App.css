@@ -1,0 +1,17 @@
+/* global resets  */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color:darkseagreen;
+}
+
+
+
+h1 {
+    background-color: cadetblue;
+    text-align: center;
+    padding: 20px;
+    font-size: 60px;
+}
